@@ -34,7 +34,7 @@ const Navbar = () => {
       <div className='container' >
         <div className='logo'>
         <Link to='/' className='link' >
-          <span className='text'>Oasis</span>
+          <span className='text'>O<span>asi</span>s</span>
         </Link>
           <span className='dot'>.</span>
         </div>
