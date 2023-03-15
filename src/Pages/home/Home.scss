@@ -1,10 +1,12 @@
 
 .home{
+  font-family: 'Playfair Display', serif;
     .features{
         background-color: #f1fdf7;
         display: flex;
         justify-content: center;
         padding: 100px;
+
 
         &.dark{
             background-color: #0d084d;
